@@ -29,8 +29,8 @@ classifiers = [
 [project.urls]
 Homepage = "https://getravn.com"
 Documentation = "https://docs.getravn.com"
-Repository = "https://github.com/getravn/ravn-python"
-"Bug Tracker" = "https://github.com/getravn/ravn-python/issues"
+Repository = "https://github.com/Kosevskey/ravn-python"
+"Bug Tracker" = "https://github.com/Kosevskey/ravn-python/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
