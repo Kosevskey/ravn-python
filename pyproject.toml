@@ -5,14 +5,14 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "ravn-sdk"
 version = "0.1.1"
-description = "Official Python SDK for Ravn — error monitoring and performance tracking"
+description = "Error monitoring for Python without the Sentry tax — 100k events free, AI root cause analysis included"
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.8"
 dependencies = ["requests>=2.28"]
-keywords = ["monitoring", "error-tracking", "observability", "logging", "apm"]
+keywords = ["monitoring", "error-tracking", "observability", "logging", "apm", "sentry-alternative", "error-monitoring", "exception-tracking"]
 classifiers = [
-    "Development Status :: 3 - Alpha",
+    "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
