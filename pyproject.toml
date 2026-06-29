@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ravn-sdk"
-version = "0.1.1"
+version = "0.1.2"
 description = "Error monitoring for Python without the Sentry tax — 100k events free, AI root cause analysis included"
 readme = "README.md"
 license = { text = "MIT" }
